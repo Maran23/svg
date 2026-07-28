@@ -4,7 +4,7 @@ A minimal interface for SVG path providers in Java.
 
 ## Features
 
-- 🪶 Lightweight – a single interface, no dependencies
+- 🪶 Lightweight - a single interface, no dependencies
 - ☕ Works in any Java context
 - 📐 Designed as a contract for SVG libraries such as [SVG-FontAwesome](https://github.com/Maran23/svg-fontawesome)
 
