@@ -58,3 +58,9 @@ public enum MyIcons implements SVG {
     }
 }
 ```
+
+## Changelog
+
+### Version 1.0.0
+
+- Initial release
