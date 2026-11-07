@@ -7,9 +7,9 @@ A minimal interface for SVG path providers in Java.
 - 🪶 Lightweight - a single interface, no dependencies
 - ☕ Works in any Java context
 - 📐 Designed as a contract for SVG libraries such as:
-  - [SVG-MaterialDesign](https://github.com/Maran23/svg-materialdesign)
-  - [SVG-Bootstrap](https://github.com/Maran23/svg-bootstrap)
-  - [SVG-FontAwesome](https://github.com/Maran23/svg-fontawesome)
+    - [SVG-MaterialDesign](https://github.com/Maran23/svg-materialdesign)
+    - [SVG-Bootstrap](https://github.com/Maran23/svg-bootstrap)
+    - [SVG-FontAwesome](https://github.com/Maran23/svg-fontawesome)
 
 ## Requirements
 
@@ -37,7 +37,7 @@ implementation 'tools.maran:svg:1.0.0'
 
 ## Example Usage
 
-```
+```java
 public enum MyIcons implements SVG {
     HOME("M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z");
 
